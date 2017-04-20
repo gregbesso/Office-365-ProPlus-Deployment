@@ -1,0 +1,1 @@
+\\server\share\Office365ProPlus\DeploymentTool\setup.exe /download \\server\share\Office365ProPlus\DeploymentTool\configuration32OfficeAll.xml

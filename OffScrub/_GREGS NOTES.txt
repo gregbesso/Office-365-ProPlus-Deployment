@@ -1,0 +1,5 @@
+See the README files here, this is something I got from the OfficeDev team. They actually have made more updates since I downloaded them, but I wanted to include the 
+copy that I used as I know for sure it worked for me.
+
+You should just leave this folder empty and then download the latest/greatest copy of the OffScrub files from their repository. 
+There are the VBS files and then this PS1 file that are referenced by my scripts. :-)

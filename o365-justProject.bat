@@ -1,0 +1,1 @@
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ExecutionPolicy Bypass -File \\server\share\Office365ProPlus\DeploymentTool\o365.ps1 configure project
